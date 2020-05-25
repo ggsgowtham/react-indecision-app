@@ -8,4 +8,4 @@ It is a indecision app built from scratch using react js library. It has functio
 4) Generating random job sequence on clicking "what should i do" button
 5) Added a react modal to show the decision in a modal from the job.
 
-This app has packages like webpack, live-server, and scss. 
+This app has packages like yarn(similar to npm), webpack, live-server, and scss. 
